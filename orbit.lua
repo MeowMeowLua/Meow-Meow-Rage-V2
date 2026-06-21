@@ -90,7 +90,7 @@ local jitterSeed = math.random(1, 999999)
 
 local noclip = false
 local underground = false
-local undergroundOffset = 500
+local undergroundOffset = 10000
 
 ------------------------------------------------
 -- F5 MENU TOGGLE (FIXED)
